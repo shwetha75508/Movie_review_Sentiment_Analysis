@@ -46,7 +46,7 @@ Movie_Review_Sentiment/
 ├── README.md
 └── dataset.csv
 
----
+```
 ## ▶️ Run the Project
 1. Install the required libraries:
 
