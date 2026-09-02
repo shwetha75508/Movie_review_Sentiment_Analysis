@@ -64,7 +64,7 @@ streamlit run app.py
 Shweta Rani
 
 - LinkedIn: https://www.linkedin.com/in/shweta-rani-13598636a/
-- HuggingFace: 
+- Streamlit App: https://moviereviewsentimentanalysis-dayu47njp33fstfwzjftuv.streamlit.app/
 
 --- 
 
